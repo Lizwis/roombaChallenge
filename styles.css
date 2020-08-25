@@ -1,0 +1,21 @@
+.titesClean {
+    width: 12.5%;
+    height: 100px;
+    background-color: #ffe9bc;
+    border: 1px solid #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titesDirty {
+    width: 12.5%;
+    height: 100px;
+    background-color: #f8ba00;
+    border: 1px solid #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
